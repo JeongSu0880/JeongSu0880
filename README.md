@@ -1,4 +1,4 @@
-<h1 align="center"><span style="font-family: 'Arual', sans-serif; font-size: 20;">정수리 Github🔮</span></h1>
+<h1 align="center"><span style="font-family: 'Arual', Monospace; font-size: 10;">정수리 Github🔮</span></h1>
 
 <!--
 **JeongSu0880/JeongSu0880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
