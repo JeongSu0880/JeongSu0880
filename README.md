@@ -1,4 +1,4 @@
-
+<h1 align="center">정수리 Github🔮</h1>
 
 <!--
 **JeongSu0880/JeongSu0880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://yourimageurl.com/logo.png" alt="정수리 Github🔮 " width="200"/>
-</p>
 
 <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
 <a href="https://suleee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/수리공작소-FC4C02?style=flat-square&logo=Tistory&logoColor=white"/></a>
