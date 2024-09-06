@@ -1,4 +1,4 @@
-## Welcome! 정수리's Github🔮 
+## 정수리 Github🔮 
 
 <!--
 **JeongSu0880/JeongSu0880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
