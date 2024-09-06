@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
 <a href="https://suleee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/수리공작소-FC4C02?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/latsyrc900@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</br>
+<a target="_blank"><img src="https://img.shields.io/badge/latsyrc900@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
